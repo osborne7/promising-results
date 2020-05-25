@@ -86,6 +86,3 @@ let slowMath = (function() {
 
     return { add, subtract, multiply, divide, remainder };
 })();
-
-export default slowMath;
-// export { slowMath };
